@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gobang/static/css/main.9c5c5444.css",
+    "main.js": "/gobang/static/js/main.fac00fa6.js",
+    "index.html": "/gobang/index.html",
+    "main.9c5c5444.css.map": "/gobang/static/css/main.9c5c5444.css.map",
+    "main.fac00fa6.js.map": "/gobang/static/js/main.fac00fa6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c5c5444.css",
+    "static/js/main.fac00fa6.js"
+  ]
+}
